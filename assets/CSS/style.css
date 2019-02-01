@@ -1,0 +1,33 @@
+@import url("reset.css");
+body {
+  font-size: 16px;
+  font-family: Times;
+}
+h1{color: #d32121;
+background-color: : white;
+font-size: 25px;
+margin: 50px; 50px;
+}
+h2{color: white;
+background-color: black;
+font-size: 20px;
+margin: 50px; 50px;
+}
+p#un{background-color: #d32121;
+color: white;
+width: 300px;
+margin: 50px; 100px;
+padding: 55px; 50px;
+}
+p#deux{background-color: white;
+color: #d32121;
+width: 300px;
+margin: 50px; 150px;
+padding: 55px; 300px;
+}
+p#trois{background-color: #d32121;
+color: white;
+width: 300px;
+margin : 50px; 100px;
+padding: 55px; 50px;
+}
