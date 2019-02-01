@@ -18,16 +18,19 @@ color: white;
 width: 300px;
 margin: 50px; 100px;
 padding: 55px; 50px;
+border: 5px dashed white;
 }
 p#deux{background-color: white;
 color: #d32121;
 width: 300px;
 margin: 50px; 150px;
 padding: 55px; 300px;
+border: 5px dashed black;
 }
 p#trois{background-color: #d32121;
 color: white;
 width: 300px;
 margin : 50px; 100px;
 padding: 55px; 50px;
+border: 5px dashed white;
 }
