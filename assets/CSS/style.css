@@ -13,6 +13,43 @@ background-color: black;
 font-size: 20px;
 margin: 50px; 50px;
 }
+main{
+  background: white;
+  margin: 0 0 0 50px;
+  position: relative;
+}
+a{text-decoration: none;
+}
+header nav ul li {display: inline-block;
+  width: 20%;
+  }
+header nav ul li a {display: block;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  }
+header nav ul li a:link{
+    color: #999;
+    background: #fff;
+}
+header nav ul li a:visited{
+  color: #FFF;
+  background: #000;
+}
+header nav ul li a:link:hover{
+  color: #fff;
+  background: #000;
+}
+header nav ul li a:visited:hover{
+  color: #0F0;
+  background: #0F0;
+}
+header nav ul li a:active{
+  color: #f00;
+  background: #000;
+}
+p::first-letter{font-size: 3em
+}
 p#un{background-color: #d32121;
 color: white;
 width: 300px;
@@ -26,6 +63,9 @@ width: 300px;
 margin: 50px; 150px;
 padding: 55px; 300px;
 border: 5px dashed black;
+position: relative;
+top:20px;
+left: 50px;
 }
 p#trois{background-color: #d32121;
 color: white;
