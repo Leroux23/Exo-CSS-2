@@ -1,0 +1,9 @@
+table, td, th{border: 3px solid #000;
+border-collapse: collapse;
+}
+table, tr,th{background: pink;
+color:red;
+}
+table tfoot tr td{background: red;
+color: yellow;
+vertical-align: middle;}
